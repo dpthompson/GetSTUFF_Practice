@@ -1,0 +1,14 @@
+C:\Users\msi3070\source\repos\GetSTUFF\GetSTUFF\bin\Debug\GetSTUFF.exe.config
+C:\Users\msi3070\source\repos\GetSTUFF\GetSTUFF\bin\Debug\GetSTUFF.exe
+C:\Users\msi3070\source\repos\GetSTUFF\GetSTUFF\bin\Debug\GetSTUFF.pdb
+C:\Users\msi3070\source\repos\GetSTUFF\GetSTUFF\obj\Debug\GetSTUFF.Properties.Resources.resources
+C:\Users\msi3070\source\repos\GetSTUFF\GetSTUFF\obj\Debug\GetSTUFF.csproj.GenerateResource.cache
+C:\Users\msi3070\source\repos\GetSTUFF\GetSTUFF\obj\Debug\GetSTUFF.csproj.CoreCompileInputs.cache
+C:\Users\msi3070\source\repos\GetSTUFF\GetSTUFF\obj\Debug\GetSTUFF.exe
+C:\Users\msi3070\source\repos\GetSTUFF\GetSTUFF\obj\Debug\GetSTUFF.pdb
+C:\Users\msi3070\source\repos\GetSTUFF\GetSTUFF\obj\Debug\GetSTUFF.Form1.resources
+C:\Users\msi3070\source\repos\GetSTUFF\GetSTUFF\obj\Debug\GetSTUFF.EditingFrm.resources
+C:\Users\msi3070\source\repos\GetSTUFF\GetSTUFF\obj\Debug\GetSTUFF.ActualEditFrm.resources
+C:\Users\msi3070\source\repos\GetSTUFF\GetSTUFF\obj\Debug\GetSTUFF.csproj.AssemblyReference.cache
+C:\Users\msi3070\source\repos\GetSTUFF\GetSTUFF\obj\Debug\GetSTUFF.Forms.GuessingGameFrm.resources
+C:\Users\msi3070\source\repos\GetSTUFF\GetSTUFF\obj\Debug\GetSTUFF.Forms.LoopingGuessingFrm.resources

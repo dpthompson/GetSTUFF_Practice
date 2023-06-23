@@ -174,7 +174,7 @@ namespace GetSTUFF.Forms
             {
                 btnYes.Visible = false;
                 btnNo.Visible = false;
-                lblPrompt.Text = "lulz good try, Is your input value of " + IntInputValue + " higher or lower than" + IntGuessingVariable;
+                lblPrompt.Text = "Good try, Is your input value of " + IntInputValue + " higher or lower than" + IntGuessingVariable;
                 btnHigher.Visible = true;
                 btnLower.Visible = true;
             }
@@ -184,7 +184,7 @@ namespace GetSTUFF.Forms
         {
             if (IntGuessingVariable == IntInputValue)
             {
-                MessageBox.Show(" silly you...WE GUESSED the value at " + IntInputValue);
+                MessageBox.Show(" Silly you...WE GUESSED the value at " + IntInputValue);
             }
 
             else
